@@ -22,3 +22,10 @@ Contributions are very welcome. The easiest way is to fork this repo, and then
 make a pull request from your fork.
 
 
+## Author
+[Venkata Karthik Thota  - kthotav] (https://github.com/kthotav)  
+kthotav@gmail.com  
+https://www.linkedin.com/in/kthotav/
+
+
+
