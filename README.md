@@ -3,7 +3,7 @@ Predicting Breast Cancer using K - Nearest Neighbors Classification
 
 
 ## Installation  
-----------------------
+
 You will need `python 3` installed to run __Predicting Breast Cancer.ipynb__.
 
 ```
@@ -15,8 +15,9 @@ You will need `python 3` installed to run __Predicting Breast Cancer.ipynb__.
 
 ```
 
+
 ## How to Contribute
------------------
+
 Contributions are very welcome. The easiest way is to fork this repo, and then
 make a pull request from your fork.
 
