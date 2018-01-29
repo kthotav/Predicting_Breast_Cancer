@@ -1,6 +1,6 @@
 # Predicting Breast Cancer
-Predicting Breast Cancer using K - Nearest Neighbors Classification
-
+Predicting Breast Cancer using K - Nearest Neighbors Classification  
+[Live Demo](http://kthotav.github.io/ds_projects/Predicting_Breast_Cancer.html)
 
 ## Installation  
 
